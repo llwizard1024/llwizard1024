@@ -8,6 +8,8 @@ I'm a former **Web Backend Developer** with **6 years of experience** who has fa
 
 📫 Reach me on Telegram: **[t.me/llwizard1](https://t.me/llwizard1)**
 
+↪️ I also run my own Telegram channel, where I share my progress in learning C++ and the progress of my projects daily. **[roadtocppdev](https://t.me/roadtocppdev)** ↩️
+
 ---
 
 ### 🛠️ Tech Stack & Focus Areas
