@@ -7,7 +7,7 @@
 <br/>
 
 [![Website](https://img.shields.io/badge/Website-llwizard1024.github.io-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://llwizard1024.github.io/)
-[![Telegram](https://img.shields.io/badge/Telegram-@roadtocppdev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/roadtocppdev)
+[![Telegram](https://img.shields.io/badge/Telegram-@roadtocppdev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/llwizard1)
 [![GitHub](https://img.shields.io/badge/GitHub-llwizard1024-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/llwizard1024)
 
 </div>
@@ -67,21 +67,11 @@
 
 ---
 
-### 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/llwizard1024/llwizard1024/output/snake.svg" alt="snake"/>
-
-</div>
-
----
-
 <div align="center">
 
 **🎯 Focusing on what matters.**
 
-<sub>Открыт к коллаборациям и интересным задачам — пиши в [Telegram](https://t.me/roadtocppdev)</sub>
+<sub>Открыт к коллаборациям и интересным задачам — пиши в [Telegram](https://t.me/llwizard1)</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1F6FEB&height=100&section=footer" alt="footer"/>
 
