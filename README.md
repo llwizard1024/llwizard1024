@@ -7,7 +7,7 @@
 <br/>
 
 [![Website](https://img.shields.io/badge/Website-llwizard1024.github.io-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://llwizard1024.github.io/)
-[![Telegram](https://img.shields.io/badge/Telegram-@roadtocppdev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/llwizard1)
+[![Telegram](https://img.shields.io/badge/Telegram-@bogdan-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/llwizard1)
 [![GitHub](https://img.shields.io/badge/GitHub-llwizard1024-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/llwizard1024)
 
 </div>
