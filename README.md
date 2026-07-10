@@ -55,21 +55,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=llwizard1024&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9" alt="stats"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=llwizard1024&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llwizard1024&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=c9d1d9" alt="languages"/>
-
 </div>
 
 ---
 
 <div align="center">
-
-**🎯 Focusing on what matters.**
 
 <sub>Открыт к коллаборациям и интересным задачам — пиши в [Telegram](https://t.me/llwizard1)</sub>
 
