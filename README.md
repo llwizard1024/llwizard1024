@@ -43,12 +43,12 @@
 
 | Проект | Описание | Стек |
 | :--- | :--- | :--- |
-| [**spring-bookshelf-api**](https://github.com/llwizard1024/spring-bookshelf-api) | REST API для личного списка книг | `Java` `Spring Boot` |
+| [**spring-bookshelf-api**](https://github.com/llwizard1024/spring-bookshelf-api) | REST API для будущего книжного сервиса| `Java` `Spring Boot` |
 | [**ascii-poker**](https://github.com/llwizard1024/ascii-poker) | Покерный клиент и сервер в ASCII-стиле | `C++` |
 | [**epoll-chat-server**](https://github.com/llwizard1024/epoll-chat-server) | Чат-сервер на epoll | `C++` `epoll` `Linux` |
 | [**b3sh**](https://github.com/llwizard1024/b3sh) | Минималистичная shell — Just Be Free | `C++` |
 | [**custom-dns**](https://github.com/llwizard1024/custom-dns) | Учебный DNS-резолвер | `C++` `DNS` |
-| [**bank_rest**](https://github.com/llwizard1024/bank_rest) | Банковский REST API (pet-project) | `Java` |
+| [**bank_rest**](https://github.com/llwizard1024/bank_rest) | Банковский REST API (example) | `Java` |
 
 ---
 
