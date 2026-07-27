@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1F6FEB&height=180&section=header&text=Bogdan%20L'gotin&fontSize=42&fontColor=ffffff&animation=twinkling" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=C%2B%2B+%26+Systems+Programming;Java+%26+Spring+Boot;Linux+%7C+C+++%7C+Java;Always+learning%2C+always+building" alt="typing" />
-
 <br/>
 
 [![Website](https://img.shields.io/badge/Website-llwizard1024.github.io-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://llwizard1024.github.io/)
