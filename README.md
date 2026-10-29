@@ -1,25 +1,48 @@
-### 🛠 Стек
-#### Backend: Java, PHP, Golang, Python.
-#### Frontend: Any.
-
-#### Other: C/C++.
-
-Reverse: Linux, Android.
-
----
-
-### 📊 GitHub Stats
-
 <div align="center">
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=llwizard1024&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="streak"/>
+
+# Привет, я llwizard 👋
+
+**Backend-разработчик · реверс-инженер Linux и Android**
+
+<a href="https://t.me/n3tn0mad"><img src="https://img.shields.io/badge/Telegram-n3tn0mad-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+
 </div>
 
 ---
 
+### 👨‍💻 Обо мне
+
+- 🔍 Занимаюсь реверсом Linux- и Android-приложений, а так же Backend разработкой.
+- 🤝 Открыт к коллаборациям и интересным задачам
+
+---
+
+### 🛠 Стек
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=java,php,go,python&theme=dark" alt="Java, PHP, Go, Python"/>
+
+**Системное программирование**
+
+<img src="https://skillicons.dev/icons?i=c,cpp&theme=dark" alt="C, C++"/>
+
+**Reverse Engineering**
+
+<img src="https://skillicons.dev/icons?i=linux,androidstudio&theme=dark" alt="Linux, Android"/>
+
+**Frontend:** любой — под задачу.
+
+---
+
+### 📊 Статистика GitHub
+
 <div align="center">
 
-<sub>Открыт к коллаборациям и интересным задачам — пиши в [Telegram](https://t.me/n3tn0mad)</sub>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=llwizard1024&theme=tokyonight" alt="Статистика"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=llwizard1024&theme=tokyonight" alt="Языки по репозиториям"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=llwizard1024&theme=tokyonight" alt="Языки по коммитам"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1F6FEB&height=100&section=footer" alt="footer"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=llwizard1024&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="Серия коммитов"/>
 
 </div>
