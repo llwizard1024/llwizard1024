@@ -20,7 +20,7 @@
 
 <img src="https://skillicons.dev/icons?i=java,php,go,python&theme=dark" alt="Java, PHP, Go, Python"/>
 
-**Системное программирование**
+**Systems programming**
 
 <img src="https://skillicons.dev/icons?i=c,cpp&theme=dark" alt="C, C++"/>
 
